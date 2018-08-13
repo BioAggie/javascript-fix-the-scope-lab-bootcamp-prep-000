@@ -10,10 +10,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  
-
-  
-  const two = 2return n + two
+  const two = 2
+  return n + two
 }
 
 var funkyFunction = function() {
